@@ -1,4 +1,4 @@
-package dddasoview.view;
+package dddasoview.report;
 
 import java.util.List;
 

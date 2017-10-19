@@ -1,4 +1,4 @@
-package dddasoview.view;
+package dddasoview.report;
 
 import dddasoview.category.Category;
 import dddasoview.price.sale.Gross;
