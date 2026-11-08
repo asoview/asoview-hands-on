@@ -94,3 +94,6 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 
+
+# Claude Code: per-user permission approvals. Never commit (may contain inline credentials).
+**/.claude/settings.local.json
